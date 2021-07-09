@@ -1,0 +1,12 @@
+{
+    "name"         : "hxlppvita",
+    "url"          : "https://github.com/Orange-hx/hxlppvita",
+    "license"      : "Public",
+    "tags"         : [ "psvita", "vita", "lua", "externs", "game" ],
+    "description"  : "Haxe externs for LuaPlayerPlus Vita!",
+    "version"      : "1.0.0",
+    "releasenote"  : "Beginning of Orange.hx stuff!",
+    "classPath"    : "src",
+    "contributors" : [ "Rabios" ],
+    "dependencies" : {}
+}

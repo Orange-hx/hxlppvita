@@ -1,5 +1,19 @@
-This is free and unencumbered software released into the public domain.
+# hxlppvita
 
+Haxe externs for [Rinnegatamante](https://github.com/Rinnegatamante)'s [LuaPlayerPlus Vita](https://github.com/Rinnegatamante/lpp-vita)
+
+### Usage
+
+1. Download [LuaPlayerPlus Vita](https://github.com/Rinnegatamante/lpp-vita/releases)
+2. Use `haxelib install hxlppvita` to install the externs!
+3. In your Haxe code import externs via `import hxlppvita.*;`
+4. In your build HXML define the main class and `-L hxlppvita` and `-D lua_vanilla`
+5. Build targeting Lua and done!
+
+### License
+
+```
+This is free and unencumbered software released into the public domain.
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
 binary, for any purpose, commercial or non-commercial, and by any
@@ -21,4 +35,5 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-For more information, please refer to <http://unlicense.org>
+For more information, please refer to <http://unlicense.org/>
+```
